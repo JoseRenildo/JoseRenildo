@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Olá! Eu sou o José ✌️😁:
 🌱 Estudante de Front-End<br>👨‍💻 Atualmente a procura de Estágio<br>🖥️ Futuro Desenvolvedor
 
 
