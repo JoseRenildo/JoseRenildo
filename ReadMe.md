@@ -1,5 +1,5 @@
 # Olá! Eu sou o José ✌️😁
-🌱 Estudante de Front-End<br>👨‍💻 Atualmente a procura de Estágio<br>🖥️ Futuro Desenvolvedor
+🌱 Explorando o universo do Front-End<br>👨‍💻 Atualmente a procura de Estágio<br>🖥️ Futuro Desenvolvedor
 
 
 ## 🌐 Socials:
